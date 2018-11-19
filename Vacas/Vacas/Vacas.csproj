@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BB094A13-7C52-47BE-B30A-F21E644E0119}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Vacas</RootNamespace>
+    <AssemblyName>Vacas</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Animais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animais.Designer.cs">
+      <DependentUpon>Animais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Animal.cs" />
+    <Compile Include="Compra.cs" />
+    <Compile Include="CompraAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompraAnimal.Designer.cs">
+      <DependentUpon>CompraAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompraAnimal2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompraAnimal2.Designer.cs">
+      <DependentUpon>CompraAnimal2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connect.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoricoCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistoricoCompras.Designer.cs">
+      <DependentUpon>HistoricoCompras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoricoVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistoricoVendas.Designer.cs">
+      <DependentUpon>HistoricoVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pessoa.cs" />
+    <Compile Include="producaoLeite.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistoVacinacao.cs" />
+    <Compile Include="Vacinacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vacinacao.Designer.cs">
+      <DependentUpon>Vacinacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venda.cs" />
+    <Compile Include="VendaAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendaAnimal.Designer.cs">
+      <DependentUpon>VendaAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VendaAnimal2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendaAnimal2.Designer.cs">
+      <DependentUpon>VendaAnimal2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VendaLeite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendaLeite.Designer.cs">
+      <DependentUpon>VendaLeite.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Animais.resx">
+      <DependentUpon>Animais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompraAnimal.resx">
+      <DependentUpon>CompraAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompraAnimal2.resx">
+      <DependentUpon>CompraAnimal2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoricoCompras.resx">
+      <DependentUpon>HistoricoCompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoricoVendas.resx">
+      <DependentUpon>HistoricoVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Vacinacao.resx">
+      <DependentUpon>Vacinacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendaAnimal.resx">
+      <DependentUpon>VendaAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendaAnimal2.resx">
+      <DependentUpon>VendaAnimal2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendaLeite.resx">
+      <DependentUpon>VendaLeite.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="vacas-saudaveis-imas.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

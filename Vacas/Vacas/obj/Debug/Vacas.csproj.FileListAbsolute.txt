@@ -1,0 +1,84 @@
+C:\Users\Francisco\source\repos\Vacas\Vacas\bin\Debug\Vacas.exe.config
+C:\Users\Francisco\source\repos\Vacas\Vacas\bin\Debug\Vacas.exe
+C:\Users\Francisco\source\repos\Vacas\Vacas\bin\Debug\Vacas.pdb
+C:\Users\Francisco\source\repos\Vacas\Vacas\obj\Debug\Vacas.csprojResolveAssemblyReference.cache
+C:\Users\Francisco\source\repos\Vacas\Vacas\obj\Debug\Vacas.Form1.resources
+C:\Users\Francisco\source\repos\Vacas\Vacas\obj\Debug\Vacas.Properties.Resources.resources
+C:\Users\Francisco\source\repos\Vacas\Vacas\obj\Debug\Vacas.csproj.GenerateResource.Cache
+C:\Users\Francisco\source\repos\Vacas\Vacas\obj\Debug\Vacas.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\Vacas\Vacas\obj\Debug\Vacas.exe
+C:\Users\Francisco\source\repos\Vacas\Vacas\obj\Debug\Vacas.pdb
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\bin\Debug\Vacas.exe.config
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\bin\Debug\Vacas.exe
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\bin\Debug\Vacas.pdb
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\obj\Debug\Vacas.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\obj\Debug\Vacas.Form1.resources
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\obj\Debug\Vacas.Properties.Resources.resources
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\obj\Debug\Vacas.csproj.GenerateResource.cache
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\obj\Debug\Vacas.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\obj\Debug\Vacas.exe
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\obj\Debug\Vacas.pdb
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\obj\Debug\Vacas.Animais.resources
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\obj\Debug\Vacas.VendaAnimal.resources
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\obj\Debug\Vacas.CompraAnimal.resources
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\obj\Debug\Vacas.CompraAnimal2.resources
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\obj\Debug\Vacas.VendaAnimal2.resources
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\obj\Debug\Vacas.Vacinação.resources
+C:\Users\Diego\Desktop\UA\2º ano 2\BD\ANO 2\Projeto\Vacas\Vacas\obj\Debug\Vacas.VendaLeite.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.csprojResolveAssemblyReference.cache
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.exe
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.pdb
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\bin\Debug\Vacas.exe.config
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\bin\Debug\Vacas.exe
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\bin\Debug\Vacas.pdb
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.Animais.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.CompraAnimal.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.CompraAnimal2.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.Form1.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.Properties.Resources.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.Vacinacao.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.VendaAnimal.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.VendaAnimal2.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.VendaLeite.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.csproj.GenerateResource.Cache
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Vacas\Vacas\bin\Debug\Vacas.exe.config
+C:\Users\Diego\Desktop\Vacas\Vacas\bin\Debug\Vacas.exe
+C:\Users\Diego\Desktop\Vacas\Vacas\bin\Debug\Vacas.pdb
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.Animais.resources
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.CompraAnimal.resources
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.CompraAnimal2.resources
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.Form1.resources
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.HistoricoCompras.resources
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.HistoricoVendas.resources
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.Properties.Resources.resources
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.Vacinacao.resources
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.VendaAnimal.resources
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.VendaAnimal2.resources
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.VendaLeite.resources
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.csproj.GenerateResource.cache
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.exe
+C:\Users\Diego\Desktop\Vacas\Vacas\obj\Debug\Vacas.pdb
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.HistoricoCompras.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas\Vacas\obj\Debug\Vacas.HistoricoVendas.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\bin\Debug\Vacas.exe.config
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\bin\Debug\Vacas.exe
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\bin\Debug\Vacas.pdb
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.csprojResolveAssemblyReference.cache
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.Animais.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.CompraAnimal.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.CompraAnimal2.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.Form1.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.HistoricoCompras.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.HistoricoVendas.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.Properties.Resources.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.Vacinacao.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.VendaAnimal.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.VendaAnimal2.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.VendaLeite.resources
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.csproj.GenerateResource.Cache
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.exe
+C:\Users\Francisco\Desktop\BD\projeto\Vacas1\Vacas\Vacas\obj\Debug\Vacas.pdb
